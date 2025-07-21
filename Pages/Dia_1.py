@@ -1,0 +1,9 @@
+import streamlit as st
+
+st.header("Contenidos del día 1")
+
+cols = st.columns(4)
+
+cols[0].subheader("Notebook para clase de python")
+
+#cols[0].markdown("[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)")
