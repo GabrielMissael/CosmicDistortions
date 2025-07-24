@@ -2,7 +2,7 @@ import streamlit as st
 
 st.header("Contenidos del día 1")
 
-cols = st.columns(4)
+cols = st.columns(2)
 
 cols[0].subheader("Notebook para clase de python")
 
