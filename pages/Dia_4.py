@@ -1,5 +1,7 @@
 import streamlit as st
 
+st.set_page_config(layout="wide", page_title="GTO2", page_icon="🌠")
+
 st.header("Contenidos del día 4")
 
 cols = st.columns(2)
